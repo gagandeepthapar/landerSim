@@ -5,3 +5,6 @@
 	path = StateEstimator
 	url = https://github.com/gagandeepthapar/StateEstimator.git
 
+[submodule "TrajectoryGenerator"]
+	path = TrajectoryGenerator
+	url = https://github.com/gagandeepthapar/TrajectoryGenerator.git
