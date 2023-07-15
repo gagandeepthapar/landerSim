@@ -1,3 +1,0 @@
-/Users/gagandeepthapar/Desktop/Projects/rocketLander/landerSim/Sensor/build/CMakeFiles/example.out.dir
-/Users/gagandeepthapar/Desktop/Projects/rocketLander/landerSim/Sensor/build/CMakeFiles/edit_cache.dir
-/Users/gagandeepthapar/Desktop/Projects/rocketLander/landerSim/Sensor/build/CMakeFiles/rebuild_cache.dir
